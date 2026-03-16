@@ -93,7 +93,7 @@ const services = [
     copy: 'Intentional lighting, framing, camera motion, and visual texture that make the brand feel bigger on screen.',
   },
   {
-    title: 'Videography',
+    title: 'Photography',
     copy: 'Production coverage that still feels authored, whether it is an event, launch, product push, or campaign day.',
   },
   {
