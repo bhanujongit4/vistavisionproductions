@@ -360,7 +360,7 @@ export default function VistaVisions() {
         <div className="mx-auto grid max-w-7xl gap-12 px-6 pb-20 pt-10 md:px-8 lg:grid-cols-[1.05fr_0.95fr] lg:items-end lg:pb-24 lg:pt-16">
           <div className="fade-up min-w-0">
             <div className="mb-6 inline-flex items-center gap-3 rounded-full border border-white/10 bg-white/[0.03] px-4 py-2 text-[0.68rem] uppercase tracking-[0.35em] text-white/60">
-              <span>Videography</span>
+              <span>Photography</span>
               <span className="h-1 w-1 rounded-full bg-white/30" />
               <span>Cinematography</span>
               <span className="h-1 w-1 rounded-full bg-white/30" />
